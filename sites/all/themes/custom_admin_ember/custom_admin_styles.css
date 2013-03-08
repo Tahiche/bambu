@@ -48,3 +48,14 @@ display: inherit !important;
 div.text-format-wrapper fieldset.filter-wrapper.form-wrapper { 
 	display:none;
 }
+
+
+.view-display-id-entityreference_view_widget_1 .contextual-links-wrapper,
+#edit-field-destacados-und-selected-items-table .contextual-links-wrapper
+{
+	display:none !important;
+	}
+	
+.media-item.selected {
+background: #036;
+}
